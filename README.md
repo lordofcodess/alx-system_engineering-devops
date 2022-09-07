@@ -1,1 +1,1 @@
-This project is about some basic commands used in bash
+Some other shell tutorials and scripts
